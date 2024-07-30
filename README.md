@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭I work with Washino Studio.<br>- 📚 I am perfecting my game developer skills.<br>- ⚡ I love working in a team!</p>
+<p align="left"><br>- 🔭I work with Washino Studio.<br>- 📚 I am perfecting my game developer skills.<br>- ⚡ I love working in a team!</p>
 
 ###
 
