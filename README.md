@@ -80,3 +80,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/nosandev/nosandev/output/snake.svg" alt="Snake animation" />
+
+###
